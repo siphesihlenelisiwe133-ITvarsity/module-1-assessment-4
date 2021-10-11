@@ -1,0 +1,18 @@
+th{
+    font-weight: 800;
+    background-color: blue;
+    color: white;
+    font-family:sans-serif;
+}
+table{
+    font-family:helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+td{
+    background-color: white;
+    color: blue;
+    font-family:fantasy;
+}
